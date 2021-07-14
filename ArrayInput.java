@@ -15,7 +15,7 @@ public class ArrayInput {
 		 for(int num : array) {
 			 sum = sum + num;
 		 }
-		 System.out.println("The sum array elements is: "+sum);
+		 System.out.println("The sum of array elements is: "+sum);
 		
 	}
 
